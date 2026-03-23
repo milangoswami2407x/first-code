@@ -1,15 +1,19 @@
 # 👋 Hello, I'm Milan Goswami
 
-🚀 12th Science Student  
+🚀 Science PCM Student  
 💻 Future Malware Reverse Engineer  
 📍 Surat, India  
 
 ## 🔥 My Goal
-To become a top Malware Reverse Engineer and crack IIT 💪
+To crack IIT and become a top Malware Reverse Engineer 💪
 
 ## 📚 Currently Learning
-- Coding
+- Programming (C++ / Python)
 - DSA (Data Structures & Algorithms)
+
+## 🛠️ Skills (Building...)
+- Problem Solving
+- Basic Coding
 
 ## ⚡ Let's Connect
 (Coming soon...)
